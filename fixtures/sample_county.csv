@@ -1,0 +1,6 @@
+PARCELNO,SITUS,MAIL_ADDR,LEGAL_DESC,COMMENT,ASSESSED_VALUE
+SMP-000101,"100 Example St, Springfield TX","100 Example St, Springfield TX",LOT 4 BLK 2 SAMPLE HEIGHTS,Homestead exemption on file.,214000
+SMP-000102,"212 Placeholder Ave, Springfield TX","9 Faraway Rd, Otherville TX",LOT 11 BLK 7 SAMPLE HEIGHTS,Tax delinquent three years.,168500
+SMP-000103,"44 Sample Rd, Springfield TX","44 Sample Rd, Springfield TX",12.5 ACRES FICTIONAL SURVEY A-9,"Vacant lot, no structures assessed.",92000
+,"62 Stub St, Springfield TX","9 Faraway Rd, Otherville TX",LOT 3 BLK 8 SAMPLE HEIGHTS,Row intentionally missing a parcel id.,0
+SMP-000105,"8 Synthetic Way, Springfield TX","8 Synthetic Way, Springfield TX",WAREHOUSE LOT 2 BLK 1 EXAMPLE COMMERCIAL PARK,Owner operated. Tax delinquent one year.,780000

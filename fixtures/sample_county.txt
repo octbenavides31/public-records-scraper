@@ -1,0 +1,7 @@
+# SAMPLE COUNTY FIXED-WIDTH EXPORT
+# parcel(0-12) situs(12-52) mailing(52-92) legal(92-124) notes(124-)
+SMP-000201  100 Example St, Springfield, TX 70001   100 Example St, Springfield, TX 70001   LOT 4 BLK 2 SAMPLE HEIGHTS      Homestead exemption on file.
+SMP-000202  212 Placeholder Ave, Springfield TX     9 Faraway Rd, Otherville TX             LOT 11 BLK 7 SAMPLE HEIGHTS     Mailing address differs from situs.
+SMP-000203  44 Sample Rd, Springfield TX            44 Sample Rd, Springfield TX            12.5 acres FICTIONAL SURVEY A-9 Vacant lot, no structures assessed.
+
+SMP-000204  62 Stub St, Springfield TX              9 Faraway Rd, Otherville TX             LOT 3 BLK 8 SAMPLE HEIGHTS      Boarded windows reported.
