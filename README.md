@@ -1,5 +1,7 @@
 # public-records-scraper
 
+[![tests](https://github.com/octbenavides31/public-records-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/octbenavides31/public-records-scraper/actions/workflows/tests.yml)
+
 Normalizes public property records from sources that agree on nothing, an HTML table, a CSV export with its own column names, and a fixed-width mainframe dump, into one clean schema.
 
 ```bash
@@ -55,7 +57,7 @@ fixtures/
   sample_county.html       # HTML table, including one malformed row
   sample_county.csv        # different column names, one row missing an ID
   sample_county.txt        # fixed-width, with comment and blank lines
-tests/test_scraper.py      # 16 tests
+tests/test_scraper.py      # 15 tests
 ```
 
 All data is invented. Any resemblance to a real parcel, person, or address is coincidental.
