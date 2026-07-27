@@ -11,7 +11,7 @@ Runs entirely against bundled fixtures. No network, no dependencies.
 
 ## Why this exists
 
-This is a sanitized version of a system I run in production across a fleet of Texas county record sources. The real code touches actual people's records and isn't public, so this demonstrates the same engineering on invented data.
+This is a sanitized version of a system I run in production, which currently carries live records from **126 Texas counties**. The real code touches actual people's records and isn't public, so this demonstrates the same engineering on invented data.
 
 The interesting problem isn't parsing any one source. It's that every county publishes the same facts differently, several of them break in a given week, and the whole thing has to run unattended on a schedule without a human noticing.
 
